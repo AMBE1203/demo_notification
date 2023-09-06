@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "969151141669",
+    "firebase_url": "https://prismtech-inc-ios-release.firebaseio.com",
+    "project_id": "prismtech-inc-ios-release",
+    "storage_bucket": "prismtech-inc-ios-release.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969151141669:android:56c05d3d1e892d07572ccc",
+        "android_client_info": {
+          "package_name": "build.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969151141669-q2f39db4e9kq9qih062da2ib9macb0du.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASf09jRsK21wJA7db2IiQb3B-Nypd_FqQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "969151141669-ce2lvd2jjfuiuga3rfpm51u17gqlth2a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "969151141669-079ia3rpo6fncuj0niniig75a4rspuob.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.prismtechinc.vio",
+                "app_store_id": "1519095765"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969151141669:android:a890565a11630c0c572ccc",
+        "android_client_info": {
+          "package_name": "com.prismtechinc.vio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969151141669-q2f39db4e9kq9qih062da2ib9macb0du.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASf09jRsK21wJA7db2IiQb3B-Nypd_FqQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "969151141669-ce2lvd2jjfuiuga3rfpm51u17gqlth2a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "969151141669-079ia3rpo6fncuj0niniig75a4rspuob.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.prismtechinc.vio",
+                "app_store_id": "1519095765"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
